@@ -1,0 +1,15 @@
+<svg width="3040" height="420" viewBox="0 0 3040 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3040" y="420" width="3040" height="420" transform="rotate(-180 3040 420)" fill="#D9D9D9"/>
+<rect x="84" y="219" width="150" height="100" fill="#4D4D4D"/>
+<rect x="94" y="229" width="130" height="80" fill="#00FD19"/>
+<path d="M525 172L455 220.5L385 269L455 317.5L525 366L595 317.5L665 269L595 220.5L525 172Z" fill="#BEBEBE"/>
+<circle cx="525" cy="269" r="75" fill="#00FD19"/>
+<circle cx="525" cy="269" r="60" fill="#4C4C4C"/>
+<rect x="768" y="219" width="250" height="100" rx="50" fill="#4C4C4C"/>
+<rect x="2804" y="199" width="140" height="140" rx="70" fill="#565656"/>
+<rect x="2829" y="224" width="90" height="90" rx="45" fill="#D71B1B"/>
+<rect x="2390" y="121.5" width="247" height="247" rx="123.5" fill="#BDBDBD"/>
+<rect x="828" y="219" width="130" height="100" fill="#00FD19"/>
+<rect x="2814" y="209" width="120" height="120" rx="60" fill="#00FD19"/>
+<rect x="2405" y="136" width="218" height="218" rx="109" fill="#00FD19"/>
+</svg>
